@@ -35,7 +35,8 @@ DAX
 Data Cleaning & Transformation
 Data Visualization
 📷 Dashboard Preview
-Main Dashboard =IPL-ANALYSIS-DASHBOARD/blob/main/ipl%20analysis%20dashboard.pbit
+Main Dashboard =
+https://github.com/sanketkenjale0027/IPL-ANALYSIS-DASHBOARD/blob/main/snapshot%20of%20the%20mainpage%20dashboard.png
 
 
 
