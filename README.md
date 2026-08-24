@@ -36,8 +36,8 @@ Data Cleaning & Transformation
 Data Visualization
 📷 Dashboard Preview
 Main Dashboard =
-https://github.com/sanketkenjale0027/IPL-ANALYSIS-DASHBOARD/blob/main/snapshot%20of%20the%20mainpage%20dashboard.png
+(https://github.com/sanketkenjale0027/IPL-ANALYSIS-DASHBOARD/blob/main/snapshot%20of%20the%20mainpage%20dashboard.png)
 Player Statistics=
-https://github.com/sanketkenjale0027/IPL-ANALYSIS-DASHBOARD/blob/main/snapshot%20%20of%20the%20player.png
+(https://github.com/sanketkenjale0027/IPL-ANALYSIS-DASHBOARD/blob/main/snapshot%20%20of%20the%20player.png)
 Points Table=
-https://github.com/sanketkenjale0027/IPL-ANALYSIS-DASHBOARD/blob/main/snapshot%20of%20the%20points%20table.png
+(https://github.com/sanketkenjale0027/IPL-ANALYSIS-DASHBOARD/blob/main/snapshot%20of%20the%20points%20table.png)
