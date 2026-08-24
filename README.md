@@ -37,13 +37,7 @@ Data Visualization
 📷 Dashboard Preview
 Main Dashboard =
 https://github.com/sanketkenjale0027/IPL-ANALYSIS-DASHBOARD/blob/main/snapshot%20of%20the%20mainpage%20dashboard.png
-
-
-
-
-Player Statistics
+Player Statistics=
 https://github.com/sanketkenjale0027/IPL-ANALYSIS-DASHBOARD/blob/main/snapshot%20%20of%20the%20player.png
-
-
-
-Points Table
+Points Table=
+https://github.com/sanketkenjale0027/IPL-ANALYSIS-DASHBOARD/blob/main/snapshot%20of%20the%20points%20table.png
