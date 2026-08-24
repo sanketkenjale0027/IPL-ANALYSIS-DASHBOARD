@@ -42,7 +42,7 @@ https://github.com/sanketkenjale0027/IPL-ANALYSIS-DASHBOARD/blob/main/snapshot%2
 
 
 Player Statistics
-
+https://github.com/sanketkenjale0027/IPL-ANALYSIS-DASHBOARD/blob/main/snapshot%20%20of%20the%20player.png
 
 
 
