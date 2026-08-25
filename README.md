@@ -38,9 +38,9 @@ The dashboard provides insights into team performance, player statistics, points
 
 ### Player Statistics
 
-[🔗 View Player Statistics Image](./snapshot%20of%20the%20player.png)
+[🔗 View Player Statistics Image](./snapshot%20%20of%20the%20player.png)
 
-![IPL Player Statistics](./snapshot%20of%20the%20player.png)
+![IPL Player Statistics](./snapshot%20%20of%20the%20player.png)
 
 ### Points Table
 
